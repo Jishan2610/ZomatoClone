@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ZomatoClone/static/css/main.a0381b65.chunk.css",
+    "main.js": "/ZomatoClone/static/js/main.cdce181a.chunk.js",
+    "main.js.map": "/ZomatoClone/static/js/main.cdce181a.chunk.js.map",
+    "runtime-main.js": "/ZomatoClone/static/js/runtime-main.aa4e323b.js",
+    "runtime-main.js.map": "/ZomatoClone/static/js/runtime-main.aa4e323b.js.map",
+    "static/js/2.830e8e8e.chunk.js": "/ZomatoClone/static/js/2.830e8e8e.chunk.js",
+    "static/js/2.830e8e8e.chunk.js.map": "/ZomatoClone/static/js/2.830e8e8e.chunk.js.map",
+    "static/js/3.ddaf7faf.chunk.js": "/ZomatoClone/static/js/3.ddaf7faf.chunk.js",
+    "static/js/3.ddaf7faf.chunk.js.map": "/ZomatoClone/static/js/3.ddaf7faf.chunk.js.map",
+    "index.html": "/ZomatoClone/index.html",
+    "static/css/main.a0381b65.chunk.css.map": "/ZomatoClone/static/css/main.a0381b65.chunk.css.map",
+    "static/js/2.830e8e8e.chunk.js.LICENSE.txt": "/ZomatoClone/static/js/2.830e8e8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa4e323b.js",
+    "static/js/2.830e8e8e.chunk.js",
+    "static/css/main.a0381b65.chunk.css",
+    "static/js/main.cdce181a.chunk.js"
+  ]
+}
